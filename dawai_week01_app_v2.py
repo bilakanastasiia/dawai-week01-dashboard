@@ -22,7 +22,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 USD Index & 10-Year Yield Dashboard (Classic Colors)")
+st.title("📊 USD Index & 10-Year Yield Dashboard")
 
 # Load data
 @st.cache_data
